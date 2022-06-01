@@ -13,7 +13,7 @@ I am Mitul from Bangladesh and I am a Sr.Software Engineer.
 
 
 ## Work Experience
-* Sr.Software Engineer (Brac Bank Limited - contine)
+* Sr.Software Engineer (Brac Bank Limited - Continue)
 * Sr.Software Engineer (Mediasoft Data System LTD - 7.8 years)
 
 
